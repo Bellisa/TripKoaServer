@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "firstName": "Jasper",
+        "lastName": "Pethrick",
+        "email": "admin@weather.com",
+        "password": "admin",
+        "age": 30,
+        "role":"admin",
+        "sid": "2d518cc74102a4666e30eb429c9f3594f079c4d53a0a51a3"
+    },
+    {
+        "id": 1,
+        "firstName": "User",
+        "lastName": "Pethrick",
+        "email": "user@weather.com",
+        "password": "user",
+        "age": 30,
+        "role":"user",
+        "sid": "ab096c3bec0245bf9a78feb915b0b877"
+    }
+]
